@@ -1,0 +1,31 @@
+<div class="container">
+        <div class="jumbotron">
+    <div class="row">
+        
+  <form #quoteForm='ngForm'(ngSubmit)="submitQuote()">
+
+    <br>
+<h2>FILL THE QUOTES FORM</h2>
+<!-- <div class="well"> -->
+     <div class="form-group">
+     <label for="name"><strong>Name:</strong></label>
+     <input type="text"  name="publisher" class="form-control" id="exampleFormControlInput1" [(ngModel)]="quotePublisher" placeholder="Write Your Name Here:">
+    </div>
+<!-- </div>  -->
+<!-- <div class="well"> -->
+    <div class="form-group">
+        <label for="quotes"><strong>Quote:</strong></label>
+        <input type="text" name="quote" class="form-control" id="exampleFormControlInput1" [(ngModel)]="quoteStr" placeholder="Add Your Quote Here:">
+    </div>
+<!-- </div> -->
+ <div class="well"></div>
+    <div class="form-group">
+        <label for="author"><strong>Author:</strong></label>
+        <input type="text" name="author" class="form-control" id="exampleFormControlInput1"  [(ngModel)]="quoteAuthor" placeholder="Add Name of the Author Here:">
+    </div>
+<!-- </div> -->
+    <button type="submit" class="btn btn-primary">Post Quote</button>
+  </form>
+  </div>
+  </div>
+</div>
