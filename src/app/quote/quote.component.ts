@@ -12,7 +12,7 @@ export class QuoteComponent implements OnInit {
 
 
   quotes=[new Quote("dickson","plug masha","It is the sweet, simple things of life which are the real ones after all."),
-new Quote("Umutesiwase","John wanyonyi","Life is the art of drawing without an eraser")]
+new Quote("wafula wepukulu","John wanyonyi","Life is the art of drawing without an eraser")]
 
   preNum:number
   lastNum:number

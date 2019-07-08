@@ -30,6 +30,50 @@ Run `ng e2e` to execute the end-to-end tests
 
 To get more help on the Angular CLI use `ng help`
 
+## BDD
+<table>
+  <tr>
+    <th>
+      Action
+    </th>
+    <th>
+      Output
+    </th>
+  </tr>
+  <tr>
+    <th>
+      Visit the quote hub 
+    </th>
+    <th>
+      Landing page
+    </th>
+  </tr>
+  <tr>
+    <th>
+      Click "what we do" icons
+    </th>
+    <th>
+      Descriptions pop up
+    </th>
+  </tr>
+  <tr>
+    <th>
+      
+    </th>
+    <th>
+      Name of project appears
+    </th>
+  </tr>
+  <tr>
+    <th>
+      fill in comment form
+    </th>
+    <th>
+      information submitted
+    </th>
+  </tr>
+</table>
+
 ## contact information
 
 * Tel: +254707736866
