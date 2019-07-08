@@ -13,8 +13,8 @@ export class HighlightDirective {
     this.highlight(this.highlightColor || 'red');
   }
 
-  @HostListener('mouseleave') onMouseLeave() {
-    this.highlight(null);
+  @HostListener('mouseleave') downvote() {
+    this.highlight(highlight);
   }
 
   private highlight(color: string) {

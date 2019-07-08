@@ -1,10 +1,10 @@
 ## Project Name
 
- QUOTES
+ THE QUOTE HUB
 
 ## Author
 
-UMUTESIWASE Yvette
+DICKSON MACHARIA MAINA.
 
 ## Description
 
@@ -32,14 +32,14 @@ To get more help on the Angular CLI use `ng help`
 
 ## contact information
 
-* Tel: +250788582184
-* Email: rwjpyy@gmail.com
+* Tel: +254707736866
+* Email: dikkymccria@gmail.com
 
 ## link to github 
 
-Run this link: Run this link: https://umutesiwaseyvette.github.io/Quote/
+Run this link: Run this link: 
 
 ## license and copyright information
 
 * MIT license
-* copyright(c)2019 UMUTESIWASE Yvette
+* copyright(c)2019 
