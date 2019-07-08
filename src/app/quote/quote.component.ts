@@ -7,8 +7,12 @@ import {Quote} from '../quote';
   styleUrls: ['./quote.component.css']
 })
 export class QuoteComponent implements OnInit {
-  quotes=[new Quote("Yvette","Laura Ingalls Wilder","It is the sweet, simple things of life which are the real ones after all."),
-new Quote("Umutesiwase","John W Gardner","Life is the art of drawing without an eraser")]
+   title="THE PLUGRAPHER QUOTE HUB"
+
+
+
+  quotes=[new Quote("dickson","plug masha","It is the sweet, simple things of life which are the real ones after all."),
+new Quote("Umutesiwase","John wanyonyi","Life is the art of drawing without an eraser")]
 
   preNum:number
   lastNum:number
